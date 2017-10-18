@@ -1,0 +1,2 @@
+Use Python html anyauth authentication
+Use Python xml parsing
